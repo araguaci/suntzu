@@ -1,12 +1,11 @@
 ## Sun Tzu Quotes
 
-Data doem google spreadsheets
-
 ## Api
 
+- Data from google spreadsheets
 - [www.zerosheets.com](https://www.zerosheets.com/)
 
-## Links
+## Demo Link
 
 - [suntzu.vercel.app](https://suntzu.vercel.app)
 
